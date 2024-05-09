@@ -1,0 +1,4 @@
+programa opcional de areas
+circulo
+rectangulo
+cuadrado
